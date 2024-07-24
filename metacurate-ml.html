@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Metadata Automation</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html"></a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+           <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="vision.html">Vision</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="metacurate-ml.html">Metacurate-ML</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="projects.html">Pilot Projects</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="publications.html">Outputs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/about-us.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>Metacurate-ML</h1>
+            <span class="subheading"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+                
+       <p>The last ten years has seen a significant step change in the European data landscape. The Consortium of European Social Science Data Archives (CESSDA) 
+         has created and co-located a range of data services which enables both structural and semantic interoperability to allow cross-national discoverability of 
+         social science data as part of the European Open Science Cloud (EOSC).</p>
+
+        <p>The METACURATE-ML project funded by the ESRC Future Data Service brings together CLOSER, UK Data Service (UKDS), the Computer Science Department at the University of Surrey, 
+          and the Scottish Centre for Social Research (ScotCen) to generate metadata which is FAIR ready and can be utilised by these emerging data services.</p>
+
+<p>The specific challenges the project seeks to solve are:</p>
+
+<p>Metadata Extraction</p>
+<p>The large-scale capture of questionnaire metadata into mature standards (DDI-Lifecycle), by extending existing work using pre-trained language models with recent developments from vision 
+  research and zero-shot techniques. This will allow us to extract the specific items with questionnaires such as question texts, responses and routing to create a rich source of metadata which 
+  provenances’ data collection methodology to the resultant data. Growing Up in Scotland will be the candidate study for this automated extraction.</p>
+
+<p>Conceptual Comparison</p>
+<p>With variable labels often being misleading or not very informative, and due to the possibility of multiple response items being coded differently, variable-level approaches 
+  are not the best enablers for question/conceptual comparison.  Questions used in real world surveys when put through models such as BERT, even when trained on large amounts of 
+  data have poor prediction.</p>
+
+<p>Pair-wise comparison of a question text from one study to all questions in a second study provides a basis for understanding the question asked, it is limited by not considering 
+  factors such as the response domain, where in the questionnaire was it asked and of whom (target population), and also whether the question is related to other questions in the same 
+  study or similar studies.</p>
+
+<p>Vocabulary Alignment</p>
+<p>This rich metadata will be annotated with conceptual and vocabulary information which aligns with the European Language Social Science Thesaurus, originally developed at UKDS and now 
+  deployed across 26 countries, using the 50,000 questions available in CLOSER Discovery as the base training dataset.</p>
+
+<p>Disclosure Control</p>
+<p>Conceptual annotations and provenance can provide contextual information to inform a range of data processing activities. In this project we will be combining such metadata with the 
+  data itself to allow evaluation of data items to assist with human-in-the-loop automated disclosure evaluation using the techniques deployed in software such as sdcMicro.</p>
+
+  </div>
+</div>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="https://twitter.com/MetadataUplift">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://github.com/CLOSER-Cohorts">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; CLOSER 2024</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
