@@ -1,24 +1,24 @@
 Publication,Year,URL,Views,Downloads,Citations,Peer Reviewed
-Initial findings from the automation of extraction of metadata from questionnaires and its classification, 2023,https://zenodo.org/records/11172552,85,203,0,N
-Metacurate-ML: Metadata Extraction from CAIs, 2024,https://zenodo.org/records/14697417,95,64,0,N
-Metacurate-ML: Metadata Extraction from CAIs, 2024,https://openresearch.surrey.ac.uk/esploro/outputs/conferencePresentation/Metacurate-ML-Metadata-Extraction-from-CAIs/99961066402346,17,9,0,N
-Metacurate-ML: Conceptual Comparison, 2024,https://zenodo.org/records/14697351,100,84,0,N
-Metacurate-ML: Enhanced Data Curation - Automation of Disclosure Control Assessment,2024, https://zenodo.org/records/14699129,56,24,0,N
-Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://dl.acm.org/doi/abs/10.1145/3726302.3730164,0,698,0,Y
-Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://ui.adsabs.harvard.edu/abs/2025arXiv250420679L/abstract,3,0,0,Y
-Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Are-Information-Retrieval-Approaches-Good-at/99990365702346,31,6,0,Y
-Biases and Ethical Considerations for Machine Learning Pipelines in the Computational Social Sciences,2023,https://link.springer.com/chapter/10.1007/978-981-99-7184-8_6,0,768,2,Y
+Initial findings from the automation of extraction of metadata from questionnaires and its classification, 2023,https://zenodo.org/records/11172552,86,205,0,N
+Metacurate-ML: Metadata Extraction from CAIs, 2024,https://zenodo.org/records/14697417,103,67,0,N
+Metacurate-ML: Metadata Extraction from CAIs, 2024,https://openresearch.surrey.ac.uk/esploro/outputs/conferencePresentation/Metacurate-ML-Metadata-Extraction-from-CAIs/99961066402346,19,13,0,N
+Metacurate-ML: Conceptual Comparison, 2024,https://zenodo.org/records/14697351,107,88,0,N
+Metacurate-ML: Enhanced Data Curation - Automation of Disclosure Control Assessment,2024, https://zenodo.org/records/14699129,60,26,0,N
+Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://dl.acm.org/doi/abs/10.1145/3726302.3730164,0,748,0,Y
+Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://ui.adsabs.harvard.edu/abs/2025arXiv250420679L/abstract,5,0,0,Y
+Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Are-Information-Retrieval-Approaches-Good-at/99990365702346,33,6,0,Y
+Biases and Ethical Considerations for Machine Learning Pipelines in the Computational Social Sciences,2023,https://link.springer.com/chapter/10.1007/978-981-99-7184-8_6,0,784,2,Y
 Revealing COVID-19's Social Dynamics: Diachronic Semantic Analysis of Vaccine and Symptom Discourse on Twitter,2024, https://arxiv.org/abs/2410.08352, 0,0,0,Y
-Revealing COVID-19's Social Dynamics: Diachronic Semantic Analysis of Vaccine and Symptom Discourse on Twitter,2024, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Revealing-COVID-19s-Social-Dynamics-Diachronic-Semantic/99925864602346#metrics,35,7,0,Y
-ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://www.nature.com/articles/s41598-024-69214-9,0,3286,3,Y
-ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/ICDXML-enhancing-ICD-coding-with-probabilistic/99907866502346#metrics,57,0,0,Y
-Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://ieeexplore.ieee.org/abstract/document/10020678,681,0,24,Y
-Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://discovery.ucl.ac.uk/id/eprint/10165551/,0,1180,0,Y
-Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Analysing-Longitudinal-Social-Science-Questionnaires-Topic/99710566402346,58,1481,0,Y
+Revealing COVID-19's Social Dynamics: Diachronic Semantic Analysis of Vaccine and Symptom Discourse on Twitter,2024, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Revealing-COVID-19s-Social-Dynamics-Diachronic-Semantic/99925864602346#metrics,37,7,0,Y
+ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://www.nature.com/articles/s41598-024-69214-9,0,3400,3,Y
+ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/ICDXML-enhancing-ICD-coding-with-probabilistic/99907866502346#metrics,58,0,0,Y
+Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://ieeexplore.ieee.org/abstract/document/10020678,692,0,23,Y
+Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://discovery.ucl.ac.uk/id/eprint/10165551/,0,1181,0,Y
+Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Analysing-Longitudinal-Social-Science-Questionnaires-Topic/99710566402346,60,1532,0,Y
 Privacy pitfalls of online service terms and conditions: a hybrid approach for classification and summarization,2022,https://aclanthology.org/2022.nllp-1.6/,0,0,4,Y
-Back to the rough ground!: Retrieving concepts in survey research and its potential uses,2025,https://zenodo.org/records/15793123,6,2,0,N
-Back to the rough ground! Retrieving concepts in survey research and its potential uses: AI modelling for Social Science data,2025,https://zenodo.org/records/15793427,8,2,0,N
-Back to the rough ground! Retrieving concepts in survey research and its potential uses: UKDS Curation Tooling,2025,https://zenodo.org/records/15793346,7,3,0,N
-Engineering a Machine Learning Pipeline for Automating Metadata Extraction from Longitudinal Survey Questionnaires,2025,https://zenodo.org/records/5742916,303,162,5,N
+Back to the rough ground!: Retrieving concepts in survey research and its potential uses,2025,https://zenodo.org/records/15793123,7,2,0,N
+Back to the rough ground! Retrieving concepts in survey research and its potential uses: AI modelling for Social Science data,2025,https://zenodo.org/records/15793427,9,2,0,N
+Back to the rough ground! Retrieving concepts in survey research and its potential uses: UKDS Curation Tooling,2025,https://zenodo.org/records/15793346,8,3,0,N
+Engineering a Machine Learning Pipeline for Automating Metadata Extraction from Longitudinal Survey Questionnaires,2025,https://zenodo.org/records/5742916,305,162,5,N
 Towards High Performance Data Curation Statistical Disclosure Control Tooling, 2025, https://doi.org/10.23889/ijpds.v10i4.3158,0,0,0,Y
 
