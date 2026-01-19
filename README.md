@@ -1,5 +1,6 @@
 # https://metadata-automation.org
-## Website for CLOSER, University of Surrey, UKDS and Scotcen metadata research projects at
+
+Website for CLOSER, University of Surrey, UKDS and Scotcen metadata research projects
 
 
 
