@@ -1,6 +1,6 @@
 ### Total Publications
 
-|Year|Views|Downloads|Citations|No.|
+|Year|Views|Downloads|Citations|Number|
 | :------|-----: |----: |----: |----: |
 |2022|1,084|2,930|36|5|
 |2023|156|5,410|12|4|
@@ -11,7 +11,7 @@
 
 ### Peer Reviewed Publications
 
-|Year|Views|Downloads|Citations|No.|
+|Year|Views|Downloads|Citations|Number|
 | :------|-----: |----: |----: |----: |
 |2022|779|2,768|31|4|
 |2023|70|5,205|12|3|
@@ -22,10 +22,21 @@
 
 ### Other Publications
 
-|Year|Views|Downloads|Citations|No.|
+|Year|Views|Downloads|Citations|Number|
 | :------|-----: |----: |----: |----: |
 |2022|305|162|5|1|
 |2023|86|205|0|1|
 |2024|289|194|0|4|
 |2025|24|7|0|4|
 |**Total**|**704**|**568**|**5**|**10**|
+
+### Dissemination
+
+|Year|Computer Science|Data Management|Research|Number|
+| :------|-----: |----: |----: |----: |
+|2022|0|1|0|1|
+|2023|0|0|1|1|
+|2024|1|3|1|4|
+|2025|5|11|3|19|
+|2026|1|1|1|3|
+|**Total**|**7**|**16**|**6**|**29**|
