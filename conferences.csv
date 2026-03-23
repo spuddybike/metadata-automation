@@ -2,6 +2,7 @@ Conference, Presentation, Year, Audience
 AAAI, Trustworthy Classification for Complex Social Surveys: A Memory-Enhanced Hierarchical Framework with Calibrated Uncertainty, 2026, Computer Science
 ACL, PMPO: A Self-Optimizing Framework for Creating High-Fidelity Measurement Tools for Social Bias in Large Language Models, 2025, Computer Science
 ICSC, When AI Joins the Thread: A Computational Analysis of Gendered Human-AI Interactions on Weibo, 2025, Computer Science
+EDDI, Metadata Uplift and Machine Learning - European Perspectives, 2023, Data Management
 EDDI, Improving metadata consistency in longitudinal research through controlled vocabulary realignment, 2025, Data Management
 EDDI, METACURATE-ML: Challenges of aligning a vocabulary with ELSST, 2025, Data Management
 EDDI, METACURATE-ML: Approaches to conceptual equivalence across languages,2025, Data Management
@@ -16,9 +17,10 @@ ADR-UK, Towards High Performance Data Curation Statistical Disclosure Control To
 SLSS, Investing in metadata – improving survey data management and data sharing, 2025, Research
 SIGR, Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?, 2025, Computer Science
 ESRA, What should FAIR Question Banks look like and how do we get there?, 2025, Research
-iASsist, Back To The Rough Ground! Retrieving Concepts In Survey Research and Its Potential Uses, 2025, Data Management
-iASsist, Back to the rough ground! Retrieving concepts in survey research and its potential uses: AI modelling for Social Science data., 2025, Data Management
-iASsist, BBack to the rough ground! Retrieving concepts in survey research and its potential uses: UKDS Curation Tooling, 2025, Data Management
+iAssist, Back To The Rough Ground! Retrieving Concepts In Survey Research and Its Potential Uses, 2025, Data Management
+iAssist, Back to the rough ground! Retrieving concepts in survey research and its potential uses: AI modelling for Social Science data., 2025, Data Management
+iAssist, BBack to the rough ground! Retrieving concepts in survey research and its potential uses: UKDS Curation Tooling, 2025, Data Management
+CESSDA AI Task Force, 2025, Data Management
 EDDI, Metacurate-ML: Conceptual Comparison, 2024, Data Management
 EDDI, Metacurate-ML: Metadata Extraction from CAIs, 2024, Data Management
 EDDI, Metacurate-ML: Enhanced Data Curation - Automation of Disclosure Control Assessment, 2024, Data Management
@@ -28,6 +30,8 @@ ESRA, Initial findings from the automation of extraction of metadata from questi
 EDDI, Engineering a Machine Learning Pipeline for Automating Metadata Extraction from Longitudinal Survey Questionnaires, 2021, Data Management
 IDCC, AI in the Archive or an AI-Driven Archive?, 2026, Data Management
 GOR, Metadata uplift of survey data for research discovery and provenance, 2026, Research
+End of Project Seminar,Automation of Metadata Production and Annotation in the Social Sciences, 2026, Data Management
+
 
 
 
