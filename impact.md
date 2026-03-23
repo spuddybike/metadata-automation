@@ -31,7 +31,7 @@
 |2026|0|0|0|0|
 |**Total**|**1,124**|**731**|**10**|**12**|
 
-### Conference presentations by audience
+### Conferences and Workshops
 
 |Year|Computer Science|Data Management|Research|Number|
 | :------|-----: |----: |----: |----: |
