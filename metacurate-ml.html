@@ -91,22 +91,37 @@
         <p>The specific challenges the project seeks to solve are:</p>
 
         <h4>Metadata Extraction</h4>
-        <p>The large-scale capture of questionnaire metadata into mature standards (DDI-Lifecycle), by extending existing work using pre-trained language models with recent developments from vision 
-        research and zero-shot techniques. This will allow us to extract the specific items with questionnaires such as question texts, responses and routing to create a rich source of metadata which 
-        provenances’ data collection methodology to the resultant data. Growing Up in Scotland will be the candidate study for this automated extraction.</p>
 
-        <h4>Conceptual Comparison</h4>
-        <p>With variable labels often being misleading or not very informative, and due to the possibility of multiple response items being coded differently, variable-level approaches 
-        are not the best enablers for question/conceptual comparison.  Questions used in real world surveys when put through models such as BERT, even when trained on large amounts of 
-        data have poor prediction.</p>
+        <p>Questionnaires and forms used in surveys are constructed from structurally small entities which are semantically diverse and in the long tail of document types which is distinctly a different problem 
+          that SOTA LLM models excel at. The project developed a new approach, Pixel Based Density Segmentation (PBDS) which identifies the entities by mimicking the way in which a human reads the document and v
+          alidating the accuracy of entity matching and extraction using relatively small numbers of entity labelled training data which represents the structural dimension of the document layout.  
+          As well as improving accuracy, this approach mitigates against the known limitations of LLM based retrieval on such large documents where contiguous information crosses page boundaries leading to 
+          hallucination, left-right information flows and consumption of large numbers of tokens, which reduces the cost effectiveness of such extraction into a production pipeline.</p> 
 
-        <p>Pair-wise comparison of a question text from one study to all questions in a second study provides a basis for understanding the question asked, it is limited by not considering 
-        factors such as the response domain, where in the questionnaire was it asked and of whom (target population), and also whether the question is related to other questions in the same 
-        study or similar studies.</p>
+        <p>The PBDS approach resulted in improved classification of entities within a questionnaire including question text, interviewer instructions and response options using a fine-tuned model based on a wider corpus of s
+          emantically diverse entity labelled training data.</p>
 
-        <h4>Vocabulary Alignment</h4>
-        <p>This rich metadata will be annotated with conceptual and vocabulary information which aligns with the European Language Social Science Thesaurus, originally developed at UKDS and now 
-        deployed across 26 countries, using the 50,000 questions available in CLOSER Discovery as the base training dataset.</p>
+        <p>The output is easily transformable into the DDI-Lifecycle metadata standard, the most widely used FAIR standard used in social sciences for this type of data.  
+          Furthermore, lowering the amount of training data from an all LLM approach allows a wider set of potential users to adopt these methods for production of FAIR metadata 
+          for use in enhancing existing data collections. </p>
+        
+        <h4>Semantic Interoperability</h4>
+
+        <p>Aligning data that is semantically equivalent is an important consideration in the linking, comparison and evaluation of social science data. 
+          The information available alongside data in archives is often insufficient for this to be machine actionable and hence able to be utilised in discovery or curation pipelines. 
+          Metadata obtained from questionnaires (see above) provides a rich resource to assist in automation. In question construction, the addition or absence of a small number or single word 
+          can totally alter the concept. Traditional textual comparison and existing LLM embeddings are insensitive to subtle changes needed to discriminate between these fine-grained concepts. 
+          New embedding methods have been developed (Reimannian embeddings) which distinguish between ‘self’, ‘middle-level’, and ‘unrelated’ concepts, reducing the search space that is acceptable 
+          for ‘human in the loop’ validation, especially important in privacy critical scenarios, such as disclosure control and the development of ontological 
+          frameworks such as controlled vocabularies for supporting discovery and AI ready datasets.</p>
+
+        <p>A new method, Dual-Branch LoRA for Invariant Representation (DLIR) has been developed which supports multi-lingual conceptual comparison, disentangling domain knowledge from its linguistic 
+          features to support conceptual discovery and comparison without recourse to translation.</p>
+
+        <h4>Question Bank</h4>
+        
+        <p>Output from the questionnaire extraction has successfully been ingested into a DDI-Lifecycle based RDF store. The schema is more lightweight than other serialisations such as XML, 
+          simplifying the future curation of extracted metadata and its incorporation into automated pipelines for use in classification for discovery and other data processing use cases.</p>
 
         <h4>Automation of Disclosure Control</h4>
         <p>Conceptual annotations and provenance can provide contextual information to inform a range of data processing activities. In this project we will be combining such metadata with the 
