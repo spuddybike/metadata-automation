@@ -1,30 +1,31 @@
 Publication,Year,URL,Views,Downloads,Citations,Peer Reviewed
-Privacy pitfalls of online service terms and conditions: a hybrid approach for classification and summarization,2022,https://aclanthology.org/2022.nllp-1.6/,0,0,6,Y
-Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://ieeexplore.ieee.org/abstract/document/10020678,740,0,28,Y
+Privacy pitfalls of online service terms and conditions: a hybrid approach for classification and summarization,2022,https://aclanthology.org/2022.nllp-1.6/,0,0,8,Y
+Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://ieeexplore.ieee.org/abstract/document/10020678,760,0,28,Y
 Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://discovery.ucl.ac.uk/id/eprint/10165551/,0,1248,0,Y
-Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Analysing-Longitudinal-Social-Science-Questionnaires-Topic/99710566402346,71,4078,0,Y
-Engineering a Machine Learning Pipeline for Automating Metadata Extraction from Longitudinal Survey Questionnaires,2022,https://zenodo.org/records/5742916,386,189,5,N
-ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://www.nature.com/articles/s41598-024-69214-9,0,4879,5,Y
-ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/ICDXML-enhancing-ICD-coding-with-probabilistic/99907866502346#metrics,72,0,0,Y
-Initial findings from the automation of extraction of metadata from questionnaires and its classification, 2023,https://zenodo.org/records/11172552,135,220,0,N
-Biases and Ethical Considerations for Machine Learning Pipelines in the Computational Social Sciences,2023,https://link.springer.com/chapter/10.1007/978-981-99-7184-8_6,0,928,8,Y
+Analysing Longitudinal Social Science Questionnaires: Topic modelling with BERT-based Embeddings,2022,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Analysing-Longitudinal-Social-Science-Questionnaires-Topic/99710566402346,75,5211,0,Y
+Engineering a Machine Learning Pipeline for Automating Metadata Extraction from Longitudinal Survey Questionnaires,2022,https://zenodo.org/records/5742916,414,206,5,N
+ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://www.nature.com/articles/s41598-024-69214-9,0,5689,9,Y
+ICDXML: enhancing ICD coding with probabilistic label trees and dynamic semantic representations,2023,https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/ICDXML-enhancing-ICD-coding-with-probabilistic/99907866502346#metrics,75,0,0,Y
+Initial findings from the automation of extraction of metadata from questionnaires and its classification, 2023,https://zenodo.org/records/11172552,190,231,0,N
+Biases and Ethical Considerations for Machine Learning Pipelines in the Computational Social Sciences,2023,https://link.springer.com/chapter/10.1007/978-981-99-7184-8_6,0,1020,8,Y
 Revealing COVID-19's Social Dynamics: Diachronic Semantic Analysis of Vaccine and Symptom Discourse on Twitter,2024,https://arxiv.org/abs/2410.08352,0,0,5,N
-Revealing COVID-19's Social Dynamics: Diachronic Semantic Analysis of Vaccine and Symptom Discourse on Twitter,2024, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Revealing-COVID-19s-Social-Dynamics-Diachronic-Semantic/99925864602346#metrics,45,8,0,N
-Metacurate-ML: Metadata Extraction from CAIs, 2024,https://zenodo.org/records/14697417,160,97,0,N
-Metacurate-ML: Metadata Extraction from CAIs, 2024,https://openresearch.surrey.ac.uk/esploro/outputs/conferencePresentation/Metacurate-ML-Metadata-Extraction-from-CAIs/99961066402346,23,42,0,N
-Metacurate-ML: Conceptual Comparison, 2024,https://zenodo.org/records/14697351,176,114,0,N
-Metacurate-ML: Enhanced Data Curation - Automation of Disclosure Control Assessment,2024, https://zenodo.org/records/14699129,88,39,0,N
-Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://dl.acm.org/doi/abs/10.1145/3726302.3730164,0,2094,2,Y
-Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://ui.adsabs.harvard.edu/abs/2025arXiv250420679L/abstract,5,0,0,Y
+Revealing COVID-19's Social Dynamics: Diachronic Semantic Analysis of Vaccine and Symptom Discourse on Twitter,2024, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Revealing-COVID-19s-Social-Dynamics-Diachronic-Semantic/99925864602346#metrics,51,8,0,N
+Metacurate-ML: Metadata Extraction from CAIs, 2024,https://zenodo.org/records/14697417,208,119,0,N
+Metacurate-ML: Metadata Extraction from CAIs, 2024,https://openresearch.surrey.ac.uk/esploro/outputs/conferencePresentation/Metacurate-ML-Metadata-Extraction-from-CAIs/99961066402346,63,25,0,N
+Metacurate-ML: Conceptual Comparison, 2024,https://zenodo.org/records/14697351,213,137,0,N
+Metacurate-ML: Enhanced Data Curation - Automation of Disclosure Control Assessment,2024, https://zenodo.org/records/14699129,117,52,0,N
+Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://dl.acm.org/doi/abs/10.1145/3726302.3730164,0,2678,2,Y
+Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://ui.adsabs.harvard.edu/abs/2025arXiv250420679L/abstract,8,1,0,Y
 Are Information Retrieval Approaches Good at Harmonising Longitudinal Surveys in Social Science?,2025,https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Are-Information-Retrieval-Approaches-Good-at/99990365702346,49,7,0,Y
-Back to the rough ground!: Retrieving concepts in survey research and its potential uses,2025,https://zenodo.org/records/15793123,37,6,0,N
-Back to the rough ground! Retrieving concepts in survey research and its potential uses: AI modelling for Social Science data,2025,https://zenodo.org/records/15793427,57,11,0,N
-Back to the rough ground! Retrieving concepts in survey research and its potential uses: UKDS Curation Tooling,2025,https://zenodo.org/records/15793346,17,5,0,N
+Back to the rough ground!: Retrieving concepts in survey research and its potential uses,2025,https://zenodo.org/records/15793123,50,7,0,N
+Back to the rough ground! Retrieving concepts in survey research and its potential uses: AI modelling for Social Science data,2025,https://zenodo.org/records/15793427,121,26,0,N
+Back to the rough ground! Retrieving concepts in survey research and its potential uses: UKDS Curation Tooling,2025,https://zenodo.org/records/15793346,31,8,0,N
 Towards High Performance Data Curation Statistical Disclosure Control Tooling, 2025, https://doi.org/10.23889/ijpds.v10i4.3158,0,0,0,Y
-Beyond Surface Similarity: A Riemannian Hierarchical Ranking Framework for Sociological Concept Equivalence, 2025, https://doi.org/10.1145/3746252.3761029,88,0,0,Y
+Beyond Surface Similarity: A Riemannian Hierarchical Ranking Framework for Sociological Concept Equivalence, 2025, https://doi.org/10.1145/3746252.3761029,118,0,0,Y
 DLIR: Spherical Adaptation for Cross-Lingual Knowledge Transfer of Sociological Concepts Alignment, 2025, https://aclanthology.org/2025.findings-emnlp.109/,0,0,0,Y
-DLIR: Spherical Adaptation for Cross-Lingual Knowledge Transfer of Sociological Concepts Alignment, 2025, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/DLIR-Spherical-Adaptation-for-Cross-Lingual-Knowledge/991050566202346?institution=44SUR_INST#metrics,11,0,0,Y
+DLIR: Spherical Adaptation for Cross-Lingual Knowledge Transfer of Sociological Concepts Alignment, 2025, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/DLIR-Spherical-Adaptation-for-Cross-Lingual-Knowledge/991050566202346?institution=44SUR_INST#metrics,13,0,0,Y
 PMPO: A Self-Optimizing Framework for Creating High-Fidelity Measurement Tools for Social Bias in Large Language Models,2025, https://aclanthology.org/2025.ijcnlp-long.130/,0,0,0,Y
-PMPO: A Self-Optimizing Framework for Creating High-Fidelity Measurement Tools for Social Bias in Large Language Models,2025, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/PMPO-A-Self-Optimizing-Framework-for-Creating/991074029002346,28,7,0,Y
+PMPO: A Self-Optimizing Framework for Creating High-Fidelity Measurement Tools for Social Bias in Large Language Models,2025, https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/PMPO-A-Self-Optimizing-Framework-for-Creating/991074029002346,44,8,0,Y
 OrthoGeoLoRA: Geometric Parameter-Efficient Fine-Tuning for Structured Social Science Concept Retrieval on the Web,2025,https://arxiv.org/abs/2601.09185,0,0,0,N
 Trustworthy Classification for Complex Social Surveys: A Memory-Enhanced Hierarchical Framework with Calibrated Uncertainty,2026,https://doi.org/10.1609/aaai.v40i46.41291,0,0,0,Y
+Decomposing Multilingual Representations: How Scale, Architecture, and Data Shape Functional Specialization,2026,https://doi.org/10.1109/ICASSP55912.2026.11462361,83,0,0,Y
