@@ -1,3 +1,55 @@
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th scope="col">Year</th>
+      <th scope="col">Views</th>
+      <th scope="col">Downloads</th>
+      <th scope="col">Citations</th>
+      <th scope="col">Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">2022</th>
+      <td>1,249</td>
+      <td>6,665</td>
+      <td>41</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th scope="row">2023</th>
+      <td>265</td>
+      <td>6,940</td>
+      <td>17</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th scope="row">2024</th>
+      <td>652</td>
+      <td>341</td>
+      <td>5</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th scope="row">2025</th>
+      <td>434</td>
+      <td>32,735</td>
+      <td>2</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <th scope="row">2026</th>
+      <td>83</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 ### Total Publications
 
 |Year|Views|Downloads|Citations|Number|
